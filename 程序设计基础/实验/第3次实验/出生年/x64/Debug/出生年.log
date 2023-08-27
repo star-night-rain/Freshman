@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\C++\出生年\源.cpp(56,6): warning C4101: “y”: 未引用的局部变量
+D:\C++\出生年\源.cpp(50): warning C4715: “istrue”: 不是所有的控件路径都返回值
+  出生年.vcxproj -> D:\C++\出生年\x64\Debug\出生年.exe

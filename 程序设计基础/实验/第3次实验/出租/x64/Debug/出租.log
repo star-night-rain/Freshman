@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\C++\出租\源.cpp(13,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  出租.vcxproj -> D:\C++\出租\x64\Debug\出租.exe

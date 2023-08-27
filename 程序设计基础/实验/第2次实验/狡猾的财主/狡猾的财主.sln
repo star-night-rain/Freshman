@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "狡猾的财主", "狡猾的财主.vcxproj", "{16FC207D-D4A4-4D9D-8958-9B72D69E00B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16FC207D-D4A4-4D9D-8958-9B72D69E00B8}.Debug|x64.ActiveCfg = Debug|x64
+		{16FC207D-D4A4-4D9D-8958-9B72D69E00B8}.Debug|x64.Build.0 = Debug|x64
+		{16FC207D-D4A4-4D9D-8958-9B72D69E00B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{16FC207D-D4A4-4D9D-8958-9B72D69E00B8}.Debug|x86.Build.0 = Debug|Win32
+		{16FC207D-D4A4-4D9D-8958-9B72D69E00B8}.Release|x64.ActiveCfg = Release|x64
+		{16FC207D-D4A4-4D9D-8958-9B72D69E00B8}.Release|x64.Build.0 = Release|x64
+		{16FC207D-D4A4-4D9D-8958-9B72D69E00B8}.Release|x86.ActiveCfg = Release|Win32
+		{16FC207D-D4A4-4D9D-8958-9B72D69E00B8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25713950-84D7-4547-A55C-B20AF9290047}
+	EndGlobalSection
+EndGlobal

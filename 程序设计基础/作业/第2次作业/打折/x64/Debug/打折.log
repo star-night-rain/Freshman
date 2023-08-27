@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\C++\打折\源.cpp(12,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  打折.vcxproj -> D:\C++\打折\x64\Debug\打折.exe

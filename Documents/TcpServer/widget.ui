@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>751</width>
+    <height>577</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <widget class="QLineEdit" name="sendEdit">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>440</y>
+     <width>401</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="openBt">
+   <property name="geometry">
+    <rect>
+     <x>39</x>
+     <y>509</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>打开服务器</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="closeBt">
+   <property name="geometry">
+    <rect>
+     <x>219</x>
+     <y>509</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>关闭服务器</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="sendBt">
+   <property name="geometry">
+    <rect>
+     <x>429</x>
+     <y>509</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>发生</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>20</y>
+     <width>601</width>
+     <height>331</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>接收窗口</string>
+   </property>
+   <widget class="QPlainTextEdit" name="recvEdit">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>20</y>
+      <width>601</width>
+      <height>311</height>
+     </rect>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>409</y>
+     <width>401</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>发送窗口</string>
+   </property>
+  </widget>
+  <zorder>openBt</zorder>
+  <zorder>closeBt</zorder>
+  <zorder>sendBt</zorder>
+  <zorder>groupBox</zorder>
+  <zorder>groupBox_2</zorder>
+  <zorder>sendEdit</zorder>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

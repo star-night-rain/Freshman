@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "跟奥巴马一起画方块", "跟奥巴马一起画方块.vcxproj", "{3A501F0F-C719-4D85-9A50-5B8C574767BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A501F0F-C719-4D85-9A50-5B8C574767BC}.Debug|x64.ActiveCfg = Debug|x64
+		{3A501F0F-C719-4D85-9A50-5B8C574767BC}.Debug|x64.Build.0 = Debug|x64
+		{3A501F0F-C719-4D85-9A50-5B8C574767BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A501F0F-C719-4D85-9A50-5B8C574767BC}.Debug|x86.Build.0 = Debug|Win32
+		{3A501F0F-C719-4D85-9A50-5B8C574767BC}.Release|x64.ActiveCfg = Release|x64
+		{3A501F0F-C719-4D85-9A50-5B8C574767BC}.Release|x64.Build.0 = Release|x64
+		{3A501F0F-C719-4D85-9A50-5B8C574767BC}.Release|x86.ActiveCfg = Release|Win32
+		{3A501F0F-C719-4D85-9A50-5B8C574767BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30ECC741-4D8B-4FAC-8F86-06A3FF1B2CC6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\C++\是不是太胖了\源.cpp(11,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++\是不是太胖了\源.cpp(12,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  是不是太胖了.vcxproj -> D:\C++\是不是太胖了\x64\Debug\是不是太胖了.exe

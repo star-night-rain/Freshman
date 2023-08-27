@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "有理数加法", "有理数加法.vcxproj", "{B8422D86-5C5F-4221-9FA5-DF0FC5B3BA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8422D86-5C5F-4221-9FA5-DF0FC5B3BA93}.Debug|x64.ActiveCfg = Debug|x64
+		{B8422D86-5C5F-4221-9FA5-DF0FC5B3BA93}.Debug|x64.Build.0 = Debug|x64
+		{B8422D86-5C5F-4221-9FA5-DF0FC5B3BA93}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8422D86-5C5F-4221-9FA5-DF0FC5B3BA93}.Debug|x86.Build.0 = Debug|Win32
+		{B8422D86-5C5F-4221-9FA5-DF0FC5B3BA93}.Release|x64.ActiveCfg = Release|x64
+		{B8422D86-5C5F-4221-9FA5-DF0FC5B3BA93}.Release|x64.Build.0 = Release|x64
+		{B8422D86-5C5F-4221-9FA5-DF0FC5B3BA93}.Release|x86.ActiveCfg = Release|Win32
+		{B8422D86-5C5F-4221-9FA5-DF0FC5B3BA93}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7169D4B9-94FB-4476-9485-72AD59142E71}
+	EndGlobalSection
+EndGlobal

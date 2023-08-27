@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\C++\水仙花数\源.cpp(10,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++\水仙花数\源.cpp(11,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++\水仙花数\源.cpp(14,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  水仙花数.vcxproj -> D:\C++\水仙花数\x64\Debug\水仙花数.exe

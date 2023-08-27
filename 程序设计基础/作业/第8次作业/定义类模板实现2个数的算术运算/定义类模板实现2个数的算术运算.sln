@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "定义类模板实现2个数的算术运算", "定义类模板实现2个数的算术运算.vcxproj", "{94F895D2-3448-4D47-8F56-3A0DE7CA9CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F895D2-3448-4D47-8F56-3A0DE7CA9CAE}.Debug|x64.ActiveCfg = Debug|x64
+		{94F895D2-3448-4D47-8F56-3A0DE7CA9CAE}.Debug|x64.Build.0 = Debug|x64
+		{94F895D2-3448-4D47-8F56-3A0DE7CA9CAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{94F895D2-3448-4D47-8F56-3A0DE7CA9CAE}.Debug|x86.Build.0 = Debug|Win32
+		{94F895D2-3448-4D47-8F56-3A0DE7CA9CAE}.Release|x64.ActiveCfg = Release|x64
+		{94F895D2-3448-4D47-8F56-3A0DE7CA9CAE}.Release|x64.Build.0 = Release|x64
+		{94F895D2-3448-4D47-8F56-3A0DE7CA9CAE}.Release|x86.ActiveCfg = Release|Win32
+		{94F895D2-3448-4D47-8F56-3A0DE7CA9CAE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EF71DEF-A59F-43A6-983D-A806EEA4B2BE}
+	EndGlobalSection
+EndGlobal
